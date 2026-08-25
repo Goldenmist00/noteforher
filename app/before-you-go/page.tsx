@@ -47,10 +47,19 @@ export default function BeforeYouGoPage() {
         </p>
 
         <p className="text-sm sm:text-base text-dark-rose leading-relaxed">
+          I know your head is paining so much right now, so please eat some good
+          food, and if you&apos;re reading this after you already ate, it&apos;s
+          okay, you&apos;ll feel good soon. Just pack up your bags and rest
+          plenty today, okay baby?
+        </p>
+
+        <p className="text-sm sm:text-base text-dark-rose leading-relaxed">
           You can talk to me whenever you feel like it. You don&apos;t have to
           figure out the perfect words, and you don&apos;t have to worry about how
           I&apos;ll react. Just tell me whatever is on your mind whenever
-          you&apos;re ready. 🫂🩷
+          you&apos;re ready. And if you need to talk, I&apos;m just here. I love
+          you. And if you just want me to stay silent and just stay with you on
+          the call, I&apos;m right here for that too, okay baby? 🫂🩷
         </p>
 
         <p className="text-sm sm:text-base text-dark-rose leading-relaxed">
